@@ -119,10 +119,6 @@ Gazebo is included in the ROS Melodic installation, but you can install the late
 
 If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Make sure to include relevant documentation and test your changes thoroughly.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
-
 
 Happy simulating!
 
