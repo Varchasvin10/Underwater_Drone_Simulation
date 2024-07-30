@@ -72,7 +72,7 @@ Gazebo is included in the ROS Melodic installation, but you can install the late
 2. **Clone the underwater drone simulation repository**:
    ```bash
    cd ~/catkin_ws/src
-   git clone <repository-url>
+   git clone https://github.com/Varchasvin10/Underwater_Drone_Simulation.git
    ```
 
 3. **Install dependencies**:
