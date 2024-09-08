@@ -123,5 +123,3 @@ If you would like to contribute to this project, please fork the repository, mak
 Happy simulating!
 
 ---
-
-Feel free to modify this template to better suit your specific project details and requirements.
